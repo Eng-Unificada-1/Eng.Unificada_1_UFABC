@@ -13,5 +13,15 @@ O Aplicativo é uma interface capaz de receber perguntas dos professores e forma
 
 ## Versão 1
 
-A primeira versão, traz os elementos gráficos e as páginas que o aplicativo final terá, permitindo ter uma prévia de como a versão final funcionará. Os elementos funcionais (backend) serão incorporados na segunda versão do aplicativo, que será disponibilizada na data da apresentação final da disciplina.
+A primeira versão, traz os elementos gráficos e as páginas que o aplicativo final terá, permitindo ter uma prévia de como a versão final funcionará. Além disso, algumas funcionalidades já estão funcionando, como é o caso da temporização das atividades, o registro de professores e questões, e a submissão das respotas.
+
+As demais funcionalidades estão sendo desenvolvidas e serão disponibilizadas na proxima versão do aplicativo.
+
+## Andamento
+
+O projeto vem sendo desenvolvido seguindo o cronograma sem maiores problemas.
+
+## Documentação
+
+O aplicativo terá a documentação escrita, trazendo maiores detalhes tecnicos além de instruções para uso. Também será disponibilizado um pequeno vídeo descrevendo o funcionamento e mostrando na prática o sistema funcionando.
 
