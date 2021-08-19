@@ -6,22 +6,19 @@ Dado os grandes desafios enfrentados pela educação durante a pandemia, em espe
 
 O Aplicativo é uma interface capaz de receber perguntas dos professores e formar um banco de questões, as quais são aplicadas de forma aleatória aos alunos que também conseguem ter acesso ao aplicativo. As funcionalidades iniciais para o combate a cola são:
 
-- Bloqueio temporário das funções de copiar e colar do celular;
-- Monitoramento do aplicativo em primeiro plano;
+- Validação da identidade do aluno via foto e informações de matricula;
 - Temporização das atividades;
 - Randomização das questões aplicadas.
 
-## Versão 1
+## Versão Final
 
-A primeira versão, traz os elementos gráficos e as páginas que o aplicativo final terá, permitindo ter uma prévia de como a versão final funcionará. Além disso, algumas funcionalidades já estão funcionando, como é o caso da temporização das atividades, o registro de professores e questões, e a submissão das respotas.
+A versão final do aplicativo traz consigo as funcionalidades de temporização das atividades, encerrando a mesma e retornando para a página inicial após um tempo determinado, a randomização das questões aplicadas, que seleciona as questões baseadas no RA do aluno, e a validação da identidade do aluno, sendo obrigatório tirar uma foto da face ao iniciar a atividade e preencher as informações pessoais solicitadas.
 
-As demais funcionalidades estão sendo desenvolvidas e serão disponibilizadas na proxima versão do aplicativo.
+## Andamento/Desenvolvimento
 
-## Andamento
-
-O projeto vem sendo desenvolvido seguindo o cronograma sem maiores problemas.
+O projeto foi desenvolvido seguindo seu cronograma original sem maiores complicações ou atrasos. Apenas foi necessário adaptar algumas funcionalidades propostas inicialmente devido a limitações da plataforma usada para o desenvolvimento, que foi o caso da funcionalidade de monitorar o aplicativo em primeiro plano e desabilitar as funções de copiar e colar do celular.
 
 ## Documentação
 
-O aplicativo terá a documentação escrita, trazendo maiores detalhes tecnicos além de instruções para uso. Também será disponibilizado um pequeno vídeo descrevendo o funcionamento e mostrando na prática o sistema funcionando.
+A documentação do aplicativo está disponível em formato de texto, trazendo maiores informações sobre as funcionalidades implementadas, seu uso e layout.
 
